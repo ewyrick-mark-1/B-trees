@@ -37,6 +37,6 @@ range Search [25, 50]
 keys found in range: 25, 26, 29, 33, 36, 36, 43, 43, 47
 ```
 
-[Demo video:](https://youtu.be/EK3UwtQUEEQ)
+[Demo video:](https://youtu.be/VAhF01_03Oo)
 
-[![Watch the demo](https://img.youtube.com/vi/EK3UwtQUEEQ/maxresdefault.jpg)](https://youtu.be/EK3UwtQUEEQ)
+[![Watch the demo](https://img.youtube.com/vi/VAhF01_03Oo/maxresdefault.jpg)](https://youtu.be/VAhF01_03Oo)
