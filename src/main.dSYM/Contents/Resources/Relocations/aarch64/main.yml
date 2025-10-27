@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/elliotwyrick/dev/CSCI362/B-trees/src/main'
+relocations:     []
+...

@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+
+build/
+.vs/
+.vscode/
+Demo.mov
+.DS_Store
